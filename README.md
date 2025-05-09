@@ -68,7 +68,7 @@ Then run it:
 * **Hassan Mroueh**
 * **Ahmad El Hage**
   *Developed as part of the Data Structures course at the University of Balamand.*
-  [More about UOB](https://www.balamand.edu.lb/faculties/FOE/About/Pages/Details.aspx?FilterField1=ID&FilterValue1=542)
+  
 
 
 

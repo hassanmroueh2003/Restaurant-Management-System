@@ -35,7 +35,6 @@ Restaurant-Management-System/
 ├── menuItems.txt                    # Source data for menu initialization
 └── README.md                        # Project documentation
 
-Here is that section in clean `.md` (Markdown) format for your `README.md` file:
 
 ````markdown
 ## 🧱 Compilation Instructions

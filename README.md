@@ -34,3 +34,41 @@ Restaurant-Management-System/
 ├── main.cpp                         # Main entry point for the CLI app
 ├── menuItems.txt                    # Source data for menu initialization
 └── README.md                        # Project documentation
+
+Here is that section in clean `.md` (Markdown) format for your `README.md` file:
+
+````markdown
+## 🧱 Compilation Instructions
+
+To compile the project:
+
+```bash
+g++ -std=c++17 main.cpp Admin.cpp Client.cpp Users.cpp Menu.cpp MenuItem.cpp -o restaurant
+````
+
+Then run it:
+
+```bash
+./restaurant
+```
+
+> **Note:** Make sure `menuItems.txt` is in the same directory.
+
+---
+
+## 📌 Dependencies
+
+* Standard C++17
+* Uses only the C++ Standard Library (no external packages)
+
+---
+
+## 👨‍🎓 Authors
+
+* **Hassan Mroueh**
+* **Ahmad El Hage**
+  *Developed as part of the Data Structures course at the University of Balamand.*
+  [More about UOB](https://www.balamand.edu.lb/faculties/FOE/About/Pages/Details.aspx?FilterField1=ID&FilterValue1=542)
+
+
+
